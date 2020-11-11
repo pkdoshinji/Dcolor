@@ -40,7 +40,7 @@ optional arguments:
 ```
 python3 main.py -f 'log(sin((z**3 - 2*z + 1j)/(1j*z**2)))' -c
 ```
-<img src="/Images/img1.png" alt="example" width="1000" height="500" />
+<img src="/Images/img1.png" alt="example" width="1000" height="450" />
 
 ```
 ./main.py -f 'sin(log(z**5 - 2*z**3 - 1j*z))' -c
