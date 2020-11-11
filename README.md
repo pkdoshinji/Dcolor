@@ -9,6 +9,7 @@ about.pdf
 ### Installation
 
 ```
+git clone https://github.com/pkdoshinji/Dcolor
 pip3 install pillow
 pip3 install mayavi
 apt install python3-pyqt.qtsvg
