@@ -10,9 +10,9 @@ about.pdf
 
 ```
 git clone https://github.com/pkdoshinji/Dcolor
-pip3 install pillow
-pip3 install mayavi
-apt install python3-pyqt.qtsvg
+sudo pip3 install pillow
+sudo pip3 install mayavi
+sudo apt-get install python3-pyqt.qtsvg
 ```
 
 The installation of mayavi can be a bit tricky, see the official documentation for additional info:
